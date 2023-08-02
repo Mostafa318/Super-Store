@@ -1,0 +1,2 @@
+In this section we do all the act to clean and prepaer the data for building data ware house in power bi 
+first of all we have to connect the dataBase (MySQL or SQL Server) to the Power BI then used it to building Data WareHouse.
